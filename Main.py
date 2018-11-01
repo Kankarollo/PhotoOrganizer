@@ -2,9 +2,9 @@ import os
 import PIL.Image
 import shutil
 
-_pathname = "D:\\Zdjecia"
+_pathname = "\\C\\Path_to_directory_with_photos"
 
-_test_pathname = "D:\\test"
+_test_pathname = "c:\\test_path"
 
 
 def make_magic(pathname):
